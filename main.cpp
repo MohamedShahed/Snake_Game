@@ -176,7 +176,7 @@ int main(void)
         Move();
     }
 
-    cout<<"in the name of allah ";
+
     if(Player1.Lose)cout<<"Game over\n";
     system("pause");
     return 0;
